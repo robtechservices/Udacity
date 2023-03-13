@@ -5,3 +5,4 @@ This Repo contains information about my projects on HTML and CSS.
 -CSS styling
 -Python programming
 -Javascript ( frontend code)
+-This will include studies on the MERN stack
